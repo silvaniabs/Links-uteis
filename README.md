@@ -13,4 +13,4 @@ Links de sites interessantes, para serem utilizados nos estudos etc...
 
 ## ⋆˙ Configuração e Personalização do Notion ⋆˙
 - [BIBLIOTECA DE CORES - usando o kaTeX ](https://www.redgregory.com/notion/2022/2/14/free-notion-template-the-color-library)
-- [Formatação de noção avançada usando expressões KaTeX](https://notionthings.com/2021/01/23/advanced-notion-formatting-using-katex-expressions/)
+- [Formatação do notion avançada usando expressões KaTeX - cores](https://notionthings.com/2021/01/23/advanced-notion-formatting-using-katex-expressions/)
